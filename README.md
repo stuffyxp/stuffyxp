@@ -1,13 +1,19 @@
-Hello, world! 👋
+hello there! :3
 
-I'm Stuffy, formely known as StuffyXP, i'm a little doggy who likes to mess around with tech, i have a YouTube channel with over 70 subscribers and great friends on Discord! 👀
+i'm StuffyXP (alternatively just **Stuffy**), im just your average tech youtuber and webdev, im mostly interested in other things like games and linux! 
+(*if you want to see a more detailed about me, i'd suggest visiting [the about page on my website!](<https://stuffyxp.github.io/about/>)*)
 
-My (chaotic) curiosity bring me here, as like doing random things that i'm interested, which you may guessed now, one of these is coding! 💞️
+also yes i'm the guy who once broke linux by just installing docker... 
 
-I'm learning HTML and CSS, as i (with the help of my friend [Lynx](<https://github.com/Lynxmic>)) i'm making my own website! just as a little neat introduction page by me to the internet 🌱 
+or broke the windows vista taskbar by just resizing it... 
 
-If you even wish to contact me on the internet, you easily can by reaching me out on the Fediverse! my account is [@stuffyxp@wetdry.world](<https://wetdry.world/@stuffyxp>)!
+or the 🅰️ guy (yes i really thought it was a shouting emoji not the blood type)... 
 
-My pronouns are he / him, but if you'd like to call me they / them, you can do it, i don't mind 😄
+but we don't talk about that over here
 
-Random fun fact: I learned aff of my computing skills when i was 3 years old, i'm 13 and i can code, that ain't normal! ⚡
+and yes i used to change my website's layout every month, i promise i won't do that for a while i promise i promise
+
+
+i also have a [youtube channel](<httos://stuffyxp.github.io/go/youtube-stuffy/>), [fedi account](<https://stuffyxp.github.io/go/mastodon>) and a [discord server](<https://stuffyxp.github.io/go/discord>) (if you want to visit them just click on the names of the service or smth whatever)! 
+
+feel free to view the type of shit that i have around here i dunno ¯\_(ツ)_/¯
