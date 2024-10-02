@@ -14,6 +14,6 @@ but we don't talk about that over here
 and yes i used to change my website's layout every month, i promise i won't do that for a while i promise i promise
 
 
-i also have a [youtube channel](<httos://stuffyxp.github.io/go/youtube-stuffy/>), [fedi account](<https://stuffyxp.github.io/go/mastodon>) and a [discord server](<https://stuffyxp.github.io/go/discord>) (if you want to visit them just click on the names of the service or smth whatever)! 
+i also have a [youtube channel](<https://stuffyxp.github.io/go/youtube-stuffy/>), [fedi account](<https://stuffyxp.github.io/go/mastodon>) and a [discord server](<https://stuffyxp.github.io/go/discord>) (if you want to visit them just click on the names of the service or smth whatever)! 
 
 feel free to view the type of shit that i have around here i dunno ¯\_(ツ)_/¯
